@@ -5,7 +5,7 @@
 	<artifactId>prediccionClima</artifactId>
 	<groupId>ar.com.ftobares</groupId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>prediccionClima</name>
 	<description>Spring Boot para predecir el clima</description>
 	
